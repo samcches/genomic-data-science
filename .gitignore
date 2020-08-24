@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 
 #ads-notebooks
+/ads1-notebooks-instructor-provided
